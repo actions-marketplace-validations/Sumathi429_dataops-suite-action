@@ -1,7 +1,6 @@
 name: "Datagaps DataOps Suite Trigger"
 description: "Trigger Datagaps DataOps Pipelines, Dataflows, DB Flows and Data Models and wait for completion"
 author: "Sumathi429"
-
 branding:
   icon: "play-circle"
   color: "blue"
